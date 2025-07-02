@@ -49,3 +49,8 @@ Backer Engagement: early momentum (first 48h pledges) strongly predicts success.
 Geographic Focus: spotlight countries with high project density but low success—prime for campaign coaching.
 
 Predictive Potential: informed creators on goal setting, campaign scheduling, and pitch structuring based on data trends.
+
+
+Screenshots / Demos
+
+view : !![dashboard preview](https://github.com/user-attachments/assets/ffa9f29c-3237-43f6-84e7-a94d76e7ee04)
