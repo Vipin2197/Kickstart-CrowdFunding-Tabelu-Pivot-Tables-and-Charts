@@ -1,4 +1,4 @@
-# Kickstart-CrowdFunding-Tabelu-Pivot-Tables-and-Charts
+# Kickstart-CrowdFunding-Tableau-Pivot-Tables-and-Charts
 
  Data Modeling Tables Created
 Projects (main): includes project_id, name, category, subcategory, country, launch_date, deadline, goal_usd, pledged_usd, backers, state (successful/failed/canceled).
