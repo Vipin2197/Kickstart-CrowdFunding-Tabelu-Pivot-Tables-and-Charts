@@ -9,7 +9,7 @@ Country
 
 Calendar (derived from launch_date + deadline) with columns: Year, MonthNo/Name, Quarter, YearMonth (YYYY-MMM), WeekdayNo/Name, FinancialMonth (Apr=FM1–Mar=FM12), FinancialQuarter.
 
-📈 Key Analyses & SQL Queries
+📈 Key Analyses 
 Currency Conversion: normalized goal and pledged into USD.
 
 Project Distribution: counted campaigns by country and category.
